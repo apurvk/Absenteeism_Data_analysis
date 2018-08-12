@@ -10,6 +10,10 @@ In this project, we try to look at the features or reasons which lead to an orga
 
 Files included:
 
-Absenteeeism.r        : My analysis in the R laguage, for lovers of R.
+Absenteeeism.r              : My analysis in the R laguage, for lovers of R.
 
-Ansenteeism.ipnb      : The analysis in the Python language
+Ansenteeism.ipnb            : The analysis in the Python language
+
+Absenteeism_at_work.csv     : The dataset
+
+Employee_Absenteeism.pdf    : My documentation to my work. Feel free to download, and check out the steps to my analysis
