@@ -7,3 +7,8 @@ Therefore if a company has a high case of absenteeism, it needs to acquire the r
 
 In this project, we try to look at the features or reasons which lead to an organisation having an issue of absenteeism, and try to give solutions to the problems.
 
+
+Files included:
+
+Absenteeeism.r        : My analysis in the R laguage, for lovers of R.
+Ansenteeism.ipnb      : The analysis in the Python language
